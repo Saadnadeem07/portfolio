@@ -18,7 +18,7 @@ Welcome to my personal portfolio website. This site showcases my work, skills, a
 
 | Home Page | Projects Section |
 |-----------|------------------|
-| ![Home](./screenshot/home.png) | ![Projects](./screenshot/projects.png) |
+| ![Home](./home.png) | ![Projects](./projects.png) |
 
 > _Add actual screenshots inside a `/screenshots` folder and update the filenames accordingly._
 
