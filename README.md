@@ -36,22 +36,6 @@ Welcome to my personal portfolio website. This site showcases my work, skills, a
 
 ---
 
-## 📁 Folder Structure
-
-portfolio/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ └── App.js
-├── package.json
-├── screenshot/
-└── README.md
-
-
----
-
 ## ⚙️ Getting Started
 
 To run the project locally:
@@ -78,7 +62,10 @@ npm run deploy
 <br>
 I’m a passionate developer focused on building impactful web applications and AI-powered tools using modern technologies. I enjoy working with DevOps practices and scalable cloud solutions.
 <br>
-📬 Contact <br>
+<br>
+
+📬 Contact <br> <br>
+
 📧 Email: saadnadeem07@gmail.com <br>
 💼 LinkedIn: linkedin.com/in/saadnadeem07 <br>
 🌐 Portfolio: saadnadeem07.github.io/portfolio <br>
