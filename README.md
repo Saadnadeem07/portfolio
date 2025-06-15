@@ -16,13 +16,13 @@ Welcome to my personal portfolio website. This site showcases my work, skills, a
 
 ## 📸 Screenshots
 ## Landing Page
-![Landing Page](./Landing Page.png)
+![Landing Page](./home.png)
 
 ## Featured Projects
 ![Projects](./projects.png)
 
 ## Skills Section
-![Skills](./skills.png)
+![Skills](./Skills.png)
 ---
 
 ## 🔍 Features
