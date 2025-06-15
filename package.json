@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saadnadeem07.github.io/Portfolio",
+  "homepage": "https://saadnadeem07.github.io/portfolio",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@types/node": "^16.18.0",
