@@ -9,9 +9,8 @@ Welcome to my personal portfolio website. This site showcases my work, skills, a
 ## 🛠 Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3, JavaScript
-- **Styling:** Tailwind CSS / Bootstrap (update based on your project)
+- **Styling:** Tailwind CSS 
 - **Deployment:** GitHub Pages
-- **Cloud & DevOps:** GitHub Actions, Docker, AWS (mention your actual tools)
 
 ---
 
@@ -19,7 +18,7 @@ Welcome to my personal portfolio website. This site showcases my work, skills, a
 
 | Home Page | Projects Section |
 |-----------|------------------|
-| ![Home](./screenshots/home.png) | ![Projects](./screenshots/projects.png) |
+| ![Home](./screenshot/home.png) | ![Projects](./screenshot/projects.png) |
 
 > _Add actual screenshots inside a `/screenshots` folder and update the filenames accordingly._
 
@@ -46,6 +45,7 @@ portfolio/
 │ ├── assets/
 │ └── App.js
 ├── package.json
+├── screenshot/
 └── README.md
 
 
@@ -74,11 +74,12 @@ npm run deploy
 ```
 
 🧠 About Me
+<br>
 I’m a passionate developer focused on building impactful web applications and AI-powered tools using modern technologies. I enjoy working with DevOps practices and scalable cloud solutions.
-
-📬 Contact
-📧 Email: saadnadeem07@gmail.com
-💼 LinkedIn: linkedin.com/in/saadnadeem07
-🌐 Portfolio: saadnadeem07.github.io/portfolio
+<br>
+📬 Contact <br>
+📧 Email: saadnadeem07@gmail.com <br>
+💼 LinkedIn: linkedin.com/in/saadnadeem07 <br>
+🌐 Portfolio: saadnadeem07.github.io/portfolio <br>
 
 Made with ❤️ by Saad Nadeem
